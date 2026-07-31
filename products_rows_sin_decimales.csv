@@ -1,5 +1,5 @@
 id,product_id,business_id,category_id,name,description,price,image_name,notes,promotion,display_order,active,created_at,featured,available
-1,P001,N001,C001,Hamburguesa Res,Hamburguesa sencilla de res 100%.,90,N001_P001.png,,False,1,True,2026-07-29 05:21:16.225571,False,True
+1,P001,N001,C001,Hamburguesa Res,Hamburguesa sencilla de res 100%.,90,N001_C001_P001.png,,False,1,True,2026-07-29 05:21:16.225571,False,True
 2,P002,N001,C001,Hamburguesa Pollo Tempura,Hamburguesa sencilla de pollo tempura.,90,N001_P002.png,,False,2,True,2026-07-29 05:21:16.225571,False,True
 3,P003,N001,C001,Hamburguesa Sirloin,Hamburguesa sencilla de sirloin.,105,N001_P003.png,,False,3,True,2026-07-29 05:21:16.225571,False,True
 4,P004,N001,C001,Hamburguesa Doble Res,Hamburguesa doble carne de res.,120,N001_P004.png,,False,4,True,2026-07-29 05:21:16.225571,False,True
